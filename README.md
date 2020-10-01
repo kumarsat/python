@@ -1,4 +1,4 @@
-python Cookbook
+python Cookbook -- A way to learn Python
 ===============
 
 [![Build Status](https://travis-ci.org/poise/python.png?branch=master)](https://travis-ci.org/poise/python)
